@@ -1,0 +1,10 @@
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.csprojAssemblyReference.cache
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.Form1.resources
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.Properties.Resources.resources
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.csproj.GenerateResource.cache
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.csproj.CoreCompileInputs.cache
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\bin\Debug\KalkulatorAppeva.exe.config
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\bin\Debug\KalkulatorAppeva.exe
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\bin\Debug\KalkulatorAppeva.pdb
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.exe
+D:\Eva\KalkulatorAppeva\KalkulatorAppeva\obj\Debug\KalkulatorAppeva.pdb
